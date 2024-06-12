@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link, useNavigate } from 'react-router-dom'
-import UseState from '../States/UseState';
+import UseEffect from '../States/UseEffect';
+
 
 const About = () => {
   
@@ -24,7 +25,7 @@ const About = () => {
 
         </div>
         <div className="about-main">
-                 <UseState/>
+                 <UseEffect/>
               
         </div>
     </div>
