@@ -1,0 +1,57 @@
+
+
+
+  DashBoard :-  
+
+    1. Live  Employees List 
+
+    2. Today Strength
+
+    3. Today labour Strength
+
+    4. today Staff Strength
+
+    5. Pending task 
+
+    6. Company Wise labour Strength
+
+    7. Today Hostel Strength
+
+    8. Company List 
+
+
+  SideBar Menu :- 
+
+    1. Master 
+      
+       # user 
+       # Company 
+       # Department 
+       # Sub- Department 
+       # Designation
+       # Shift
+       # Shift Roaster
+       # User Rights
+       # salary Period
+
+    2.  Employee Details 
+
+       # Enquiry Form 
+       # Registration
+       # manual Attendance
+       # Deductions
+       # Advance Details
+       # Approved 
+       # Resignation
+       # Settlements
+
+    3.  Attendance & Salary 
+
+       # daily Attendance
+       # Weekly Attendance
+       # Monthly Attendance
+       # Banus Details
+
+    4. Reports
+
+    
