@@ -1,6 +1,9 @@
 import React from 'react'
 import { Link, useNavigate } from 'react-router-dom'
-import UseEffect from '../States/UseEffect';
+import UseMemo from '../States/UseMemo/UseMemo';
+
+
+
 
 
 const About = () => {
@@ -25,7 +28,8 @@ const About = () => {
 
         </div>
         <div className="about-main">
-                 <UseEffect/>
+                
+                <UseMemo/>
               
         </div>
     </div>

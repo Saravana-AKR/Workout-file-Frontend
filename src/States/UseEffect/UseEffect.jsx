@@ -39,6 +39,8 @@ const UseEffect = () => {
 
   return (
     <>
+
+         <h1> useEffect works in Browser API</h1>
        
        <div style={{
       position: 'absolute',
